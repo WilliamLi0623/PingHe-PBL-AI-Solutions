@@ -18,7 +18,7 @@ Your output should look like this:
 # Construct your dictionary here
 # Write a loop to accomplish this
 dictionary ={};
-for i in range(1,15,1):
+for i in range(1,16,1):
   dictionary[i]=i*i;
 
 # You don't have to do anything here
